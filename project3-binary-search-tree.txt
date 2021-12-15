@@ -1,0 +1,14 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+
+root = 7;
+
+root'un solundan 5 bulunur, sağından 8;
+5 in solundan 1 bulunur.
+1'in sağından 3 bulunur.
+3'ün sağından 6 bulunur.
+6'nın solundan 0 bulunur.
+8'in sağından 9 bulunur.
+0'ın sağından 4 bulunur.
+4'ün solundan 2 bulunur.
+
+
