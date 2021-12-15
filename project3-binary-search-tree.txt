@@ -12,3 +12,6 @@ root'un solundan 5 bulunur, sağından 8;
 4'ün solundan 2 bulunur.
 
 
+
+
+
